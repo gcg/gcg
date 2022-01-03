@@ -9,6 +9,10 @@ I am Guney. I develop APIs and backend tools, love DevOps and Cloud, build mobil
 - Co-Founder & CTO at [@Poltio](https://www.poltio.com)
 - Helping [@one4good](https://one4good.com) to make the world a better place.
 - Building a social network for gamers [@gameronegg](https://g1.gg)
+- Building a Discord Bot named (@Kumoko) for new manga chapter notifications and tracker (currently closed alpha)
+- Building a new micro blog with Next.js & firebase for saving & sharing cool links. (just started, link/name tbd)
+- Building a cool new Todo app (yep, another todo app) with Swift for iOS/iPadOS/watchOS
+
 
 ## Tools
 
