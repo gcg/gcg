@@ -13,6 +13,18 @@ I am Guney. I develop APIs and backend tools, love DevOps and Cloud, build mobil
 
 ## Links
 
+<a href="https://twitter.com/gcg" target="_blank">
+    <img src="https://raw.githubusercontent.com/gcg/gcg/master/assets/twitter.svg" alt="@gcg" />
+</a>
+
+<a href="https://instagram.com/gcg" target="_blank">
+    <img src="https://raw.githubusercontent.com/gcg/gcg/master/assets/instagram.svg" alt="@gcg" />
+</a>
+
+<a href="https://discord.gg/SMcJHkX4r7" target="_blank">
+    <img src="https://raw.githubusercontent.com/gcg/gcg/master/assets/discord.svg" alt="gcg#3057" />
+</a>
+
 - [gcg.me](https://gcg.me)
 - [@gcg](https://twitter.com/gcg) on Twitter
 - [@gcg](https://instagram.com/gcg) on Instagram
