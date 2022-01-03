@@ -16,7 +16,7 @@ I am Guney. I develop APIs and backend tools, love DevOps and Cloud, build mobil
 
 ## Tools
 
-I'd like to pick the right tool for the right job but I am most comfortable with ![Laravel PHP](https://raw.githubusercontent.com/gcg/gcg/master/assets/laravel.svg "Laravel PHP") and when PHP falls short, I go with <img src="https://raw.githubusercontent.com/gcg/gcg/master/assets/go.svg" alt="Go" width="18" height="18" /> Go.
+I'd like to pick the right tool for the right job but I am most comfortable with  <img src="https://raw.githubusercontent.com/gcg/gcg/master/assets/laravel.svg" alt="Laravel PHP" width="18" height="18" /> Laravel and when PHP falls short, I go with <img src="https://raw.githubusercontent.com/gcg/gcg/master/assets/go.svg" alt="Go" width="18" height="18" /> Go.
 
 I am fluent in <img src="https://raw.githubusercontent.com/gcg/gcg/master/assets/amazonaws.svg" alt="AWS" width="18" height="18" /> AWS with ~10 years of hands on experience. For the last couple of years I am also using <img src="https://raw.githubusercontent.com/gcg/gcg/master/assets/kubernetes.svg" alt="GKE" height="18" width="18" /> Kubernetes on GKE full time on production.
 
