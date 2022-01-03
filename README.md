@@ -10,6 +10,9 @@ I am Guney. I develop APIs and backend tools, love DevOps and Cloud, build mobil
 - Helping [@one4good](https://one4good.com) to make the world a better place.
 - Building a social network for gamers [@gameronegg](https://g1.gg)
 
+## Tools
+
+I'd like to pick the right tool for the right job but I am most comfortable with <img src="https://raw.githubusercontent.com/gcg/gcg/master/assets/laravel.svg" alt="Laravel PHP" width="24" height="24" /> and when PHP falls short, I go with <img src="https://raw.githubusercontent.com/gcg/gcg/master/assets/go.svg" alt="Go" width="24" height="24" />
 
 ## Links
 
@@ -29,6 +32,7 @@ I am Guney. I develop APIs and backend tools, love DevOps and Cloud, build mobil
     <img src="https://raw.githubusercontent.com/gcg/gcg/master/assets/linkedin.svg" alt="gcg#3057" width="36" height="36" />
 </a>
 
+## Stats
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C012%20hrs%2014%20mins-blue)
