@@ -12,9 +12,14 @@ I am Guney. I develop APIs and backend tools, love DevOps and Cloud, build mobil
 
 ## Tools
 
-I'd like to pick the right tool for the right job but I am most comfortable with <img src="https://raw.githubusercontent.com/gcg/gcg/master/assets/laravel.svg" alt="Laravel PHP" width="24" height="24" /> Laravel and when PHP falls short, I go with <img src="https://raw.githubusercontent.com/gcg/gcg/master/assets/go.svg" alt="Go" width="24" height="24" /> Go.
+I'd like to pick the right tool for the right job but I am most comfortable with <img src="https://raw.githubusercontent.com/gcg/gcg/master/assets/laravel.svg" alt="Laravel PHP" width="18" height="18" /> Laravel and when PHP falls short, I go with <img src="https://raw.githubusercontent.com/gcg/gcg/master/assets/go.svg" alt="Go" width="18" height="18" /> Go.
 
 I am fluent in <img src="https://raw.githubusercontent.com/gcg/gcg/master/assets/amazonaws.svg" alt="AWS" width="18" height="18" /> AWS with ~10 years of hands on experience. For the last couple of years I am also using <img src="https://raw.githubusercontent.com/gcg/gcg/master/assets/kubernetes.svg" alt="GKE" height="18" width="18" /> Kubernetes on GKE full time on production.
+
+I love automation tools and I am using <img src="https://raw.githubusercontent.com/gcg/gcg/master/assets/docker.svg" alt="Docker" width="18" height="18" /> Docker ever since it was released.
+
+I also dabble with <img src="https://raw.githubusercontent.com/gcg/gcg/master/assets/react.svg" alt="React.js" width="18" height="18" /> React.js and <img src="https://raw.githubusercontent.com/gcg/gcg/master/assets/nextdotjs.svg" alt="Next.js" width="18" height="18" /> Next.js when I have to.
+Altough (and probably mostly because) I am not a frontend developer, I love working with <img src="https://raw.githubusercontent.com/gcg/gcg/master/assets/tailwindcss.svg" alt="Tailwind CSS" width="18" height="18" /> Tailwind CSS.
 
 ## Links
 
