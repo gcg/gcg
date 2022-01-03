@@ -1,22 +1,22 @@
-### Hi there 👋
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/gcg/gcg/master/gcg.png" alt="Guney Can Gokoglu" />
+</h1>
+
+## Ahoy!
+
+I am Guney. I develop APIs and backend tools, love DevOps and Cloud, build mobile apps as a hobby.
+
+- Co-Founder & CTO at [@Poltio](https://www.poltio.com)
+- Helping [@one4good](https://one4good.com) to make the world a better place.
+- Building a social network for gamers [@gameronegg](https://g1.gg)
 
 
+## Links
+
+- [gcg.me](https://gcg.me)
+- [@gcg](https://twitter.com/gcg) on Twitter
+- [@gcg](https://instagram.com/gcg) on Instagram
+- [gcg#3057](./) on Discord
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
-
-<!--
-**gcg/gcg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
