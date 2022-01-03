@@ -16,7 +16,7 @@ I am Guney. I develop APIs and backend tools, love DevOps and Cloud, build mobil
 - [gcg.me](https://gcg.me)
 - [@gcg](https://twitter.com/gcg) on Twitter
 - [@gcg](https://instagram.com/gcg) on Instagram
-- [gcg#3057](./) on Discord
+- **gcg#3057** on Discord
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
