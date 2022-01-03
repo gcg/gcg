@@ -30,7 +30,7 @@ My editor of choice is <img src="https://raw.githubusercontent.com/gcg/gcg/maste
 Oh and most importantly, I use <img src="https://raw.githubusercontent.com/gcg/gcg/master/assets/archlinux.svg" alt="Arch Linux" width="18" height="18" /> Arch btw.
 
 
-## Links
+## Stalk me?
 
 <a href="https://twitter.com/gcg" target="_blank" >
     <img src="https://raw.githubusercontent.com/gcg/gcg/master/assets/twitter.svg" width="36" height="36" alt="@gcg" />
