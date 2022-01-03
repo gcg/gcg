@@ -21,6 +21,11 @@ I love automation tools and I am using <img src="https://raw.githubusercontent.c
 I also dabble with <img src="https://raw.githubusercontent.com/gcg/gcg/master/assets/react.svg" alt="React.js" width="18" height="18" /> React.js and <img src="https://raw.githubusercontent.com/gcg/gcg/master/assets/nextdotjs.svg" alt="Next.js" width="18" height="18" /> Next.js when I have to.
 Altough (and probably mostly because) I am not a frontend developer, I love working with <img src="https://raw.githubusercontent.com/gcg/gcg/master/assets/tailwindcss.svg" alt="Tailwind CSS" width="18" height="18" /> Tailwind CSS.
 
+My editor of choice is <img src="https://raw.githubusercontent.com/gcg/gcg/master/assets/neovim.svg" alt="NeoVim" width="18" height="18" /> Vim.
+
+Oh and most importantly, I use <img src="https://raw.githubusercontent.com/gcg/gcg/master/assets/archlinux.svg" alt="Arch Linux" width="18" height="18" /> Arch btw.
+
+
 ## Links
 
 <a href="https://twitter.com/gcg" target="_blank">
