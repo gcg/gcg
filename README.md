@@ -33,7 +33,7 @@ Oh and most importantly, I use <img src="https://raw.githubusercontent.com/gcg/g
 ## Links
 
 <a href="https://twitter.com/gcg" target="_blank" >
-    <img style="color:#1DA1F2;" src="https://raw.githubusercontent.com/gcg/gcg/master/assets/twitter.svg" width="36" height="36" alt="@gcg" />
+    <img src="https://raw.githubusercontent.com/gcg/gcg/master/assets/twitter.svg" width="36" height="36" alt="@gcg" />
 </a>
 
 <a href="https://instagram.com/gcg" target="_blank">
@@ -45,7 +45,7 @@ Oh and most importantly, I use <img src="https://raw.githubusercontent.com/gcg/g
 </a>
 
 <a href="https://www.linkedin.com/in/guneycan/" target="_blank">
-    <img src="https://raw.githubusercontent.com/gcg/gcg/master/assets/linkedin.svg" alt="gcg#3057" width="36" height="36" />
+    <img src="https://raw.githubusercontent.com/gcg/gcg/master/assets/linkedin.svg" alt="LinkedIn" width="36" height="36" />
 </a>
 
 ## Stats
