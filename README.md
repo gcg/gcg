@@ -14,21 +14,21 @@ I am Guney. I develop APIs and backend tools, love DevOps and Cloud, build mobil
 ## Links
 
 <a href="https://twitter.com/gcg" target="_blank">
-    <img src="https://raw.githubusercontent.com/gcg/gcg/master/assets/twitter.svg" width="24" height="24" alt="@gcg" />
+    <img src="https://raw.githubusercontent.com/gcg/gcg/master/assets/twitter.svg" width="36" height="36" alt="@gcg" />
 </a>
 
 <a href="https://instagram.com/gcg" target="_blank">
-    <img src="https://raw.githubusercontent.com/gcg/gcg/master/assets/instagram.svg" alt="@gcg" width="24" height="24" />
+    <img src="https://raw.githubusercontent.com/gcg/gcg/master/assets/instagram.svg" alt="@gcg" width="36" height="36" />
 </a>
 
 <a href="https://discord.gg/SMcJHkX4r7" target="_blank">
-    <img src="https://raw.githubusercontent.com/gcg/gcg/master/assets/discord.svg" alt="gcg#3057" width="24" height="24" />
+    <img src="https://raw.githubusercontent.com/gcg/gcg/master/assets/discord.svg" alt="gcg#3057" width="36" height="36" />
 </a>
 
-- [gcg.me](https://gcg.me)
-- [@gcg](https://twitter.com/gcg) on Twitter
-- [@gcg](https://instagram.com/gcg) on Instagram
-- **gcg#3057** on Discord
+<a href="https://www.linkedin.com/in/guneycan/" target="_blank">
+    <img src="https://raw.githubusercontent.com/gcg/gcg/master/assets/linkedin.svg" alt="gcg#3057" width="36" height="36" />
+</a>
+
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C012%20hrs%2014%20mins-blue)
