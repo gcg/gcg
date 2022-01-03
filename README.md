@@ -32,8 +32,8 @@ Oh and most importantly, I use <img src="https://raw.githubusercontent.com/gcg/g
 
 ## Links
 
-<a href="https://twitter.com/gcg" target="_blank" style="color:#1DA1F2;">
-    <img src="https://raw.githubusercontent.com/gcg/gcg/master/assets/twitter.svg" width="36" height="36" alt="@gcg" />
+<a href="https://twitter.com/gcg" target="_blank" >
+    <img style="color:#1DA1F2;" src="https://raw.githubusercontent.com/gcg/gcg/master/assets/twitter.svg" width="36" height="36" alt="@gcg" />
 </a>
 
 <a href="https://instagram.com/gcg" target="_blank">
