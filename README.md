@@ -6,12 +6,13 @@
 
 I am Guney. I develop APIs and backend tools, love DevOps and Cloud, build mobile apps as a hobby.
 
-- Co-Founder & CTO at [@Poltio](https://www.poltio.com)
+- Co-Founder & CTO at [@Poltio](https://www.poltio.com). Currently we are polishing our new ML and smart search powered product finder/recommender.
 - Helping [@one4good](https://one4good.com) to make the world a better place.
 - Building a social network for gamers [@gameronegg](https://g1.gg)
 - Building a Discord Bot named (@Kumoko) for new manga chapter notifications and tracker (currently closed alpha)
 - Building a new micro blog with Next.js & firebase for saving & sharing cool links. (just started, link/name tbd)
-- Building a cool new Todo app (yep, another todo app) with Swift for iOS/iPadOS/watchOS
+- Just started building a new cli todo app with a yaml database to store project based small todos in a small terminal pane
+- After the todo cli app, I am also planning to build a daily journal point tracker cli app.
 
 
 ## Tools
