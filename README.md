@@ -32,7 +32,7 @@ Oh and most importantly, I use <img src="https://raw.githubusercontent.com/gcg/g
 
 ## Stalk me?
 
-<a href="https://vivy.dev/@gcg" rel="me" target="_blank" >
+<a href="https://vivy.dev/@gcg" rel="nofollow me" target="_blank" >
     <img src="https://raw.githubusercontent.com/gcg/gcg/master/assets/mastodon.svg" width="36" height="36" alt="@gcg" />
 </a>
 
